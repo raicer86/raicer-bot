@@ -5,4 +5,4 @@ const Discord = require("discord.js");
 
  var prefix = "k!";
 
- 
+ client.login("")
